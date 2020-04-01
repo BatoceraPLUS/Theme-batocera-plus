@@ -1,0 +1,64 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<image name="background" extra="true">
+		</image>
+		<image name="band1" extra="true">
+			<color>BCDF00</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>1E342A</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>459FD0</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>131313</color>
+		</image>
+
+		<text name="info1" extra="true">
+			<text>Name: HBMAME (HomeBrew MAME)</text>
+			<pos>0.38 0.72</pos>
+		</text>
+		<text name="info2" extra="true">
+			<text>Features : Contains various hacks and homebrews</text>
+			<pos>0.38 0.74</pos>
+		</text>
+		<text name="info3" extra="true">
+			<text>Homebrew games meant for arcade hardware, or emulators of arcade hardware</text>
+			<pos>0.38 0.76</pos>
+		</text>
+		<text name="info4" extra="true">
+			<text>Hacks of arcade games</text>
+			<pos>0.38 0.78</pos>
+		</text>
+		<text name="info5" extra="true">
+			<text>Selected bootlegs that are not in MAME</text>
+			<pos>0.38 0.82</pos>
+		</text>
+		<text name="info6" extra="true">
+			<text>Games that are enhanced or improved but not suitable for MAME </text>
+			<pos>0.38 0.84</pos>
+		</text>
+		<text name="info7" extra="true">
+			<text>Web Site : https://hbmame.1emulation.com/</text>
+			<pos>0.38 0.86</pos>
+		</text>
+	</view>
+
+	<view name="basic, detailed, video">
+		<image name="band1" extra="true">
+			<color>BCDF00</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>1E342A</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>459FD0</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>131313</color>
+		</image>
+	</view>
+</theme>
