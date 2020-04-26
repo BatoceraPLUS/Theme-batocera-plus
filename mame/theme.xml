@@ -8,7 +8,7 @@
 			<path>./art/logo.svg</path>
 		</image>
 		<image name="background" extra="true">
-			<path>./../main/background.png</path>
+			<path>./../main/background.svg</path>
 		</image>
 		<!--
 		<image name="game" extra="true">
@@ -30,8 +30,6 @@
 			<maxSize>0.15 0.25</maxSize>
 			<origin>1 1</origin>
 		</image>
-
-
 	</view>	
 
 	<view name="basic, detailed, video">	

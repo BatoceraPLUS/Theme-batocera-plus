@@ -8,7 +8,7 @@
 			<path>./art/logo.svg</path>
 		</image>
 		<image name="background" extra="true">
-			<path>./../main/background.png</path>
+			<path>./../main/background.sgv</path>
 		</image>
 		<image name="console" extra="true">
 			<path>./art/console.svg</path>
