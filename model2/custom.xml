@@ -17,44 +17,32 @@
 			<color>1E1C1A</color>
 		</image>
 		<text name="info1" extra="true">
-			<text>Developer / Manufacturer : Nintendo / Foxconn</text>
+			<text>Developer / Manufacturer : Sega</text>
 			<pos>0.38 0.72</pos>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 2012</text>
+			<text>Year of Release : 1993</text>
 			<pos>0.38 0.74</pos>
 		</text>
 		<text name="info3" extra="true">
-			<text>Units sold : 13,5 billion</text>
+			<text>CPU : Intel i960 a 25 MHz</text>
 			<pos>0.38 0.76</pos>
 		</text>
 		<text name="info4" extra="true">
-			<text>Best-selling game : Mario Kart 8</text>
+			<text>Graphics Co-Processor : FPU Fujitsu TGP MB86234</text>
 			<pos>0.38 0.78</pos>
 		</text>
 		<text name="info5" extra="true">
-			<text>CPU : IBM PowerPC @ 1.23 GHz</text>
+			<text>Sound CPU : Motorola 68000 @ 10 MHz </text>
 			<pos>0.38 0.80</pos>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 2 GB</text>
+			<text>Resolution : 496 x 384 pixels</text>
 			<pos>0.38 0.82</pos>
 		</text>
 		<text name="info7" extra="true">
-			<text>Video : ATI "RV740" @ 750 MHz </text>
+			<text>Sound : 2 x Sega 315-5560 Custom PCM 28 channels / Yamaha YM3834 @ 8 MHz</text>
 			<pos>0.38 0.84</pos>
-		</text>
-		<text name="info8" extra="true">
-			<text>Resolution : 480p (PAL/NTSC), 480i (PAL/NTSC) or 576i (PAL/SECAM), standard 4:3 and 16:9 anamorphic widescreen</text>
-			<pos>0.38 0.86</pos>
-		</text>
-		<text name="info9" extra="true">
-			<text>Sound : Stereo - Dolby Pro Logic II-capable</text>
-			<pos>0.38 0.88</pos>
-		</text>
-		<text name="info10" extra="true">
-			<text>Media : 4.7/8.54 GB DVD</text>
-			<pos>0.38 0.90</pos>
 		</text>
 	</view>
 
